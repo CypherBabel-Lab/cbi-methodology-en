@@ -2,4 +2,4 @@
 
 ## Introduction
 
-* [Page 2](README.md)
+* [Summary](README.md)
