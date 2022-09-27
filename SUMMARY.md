@@ -37,6 +37,28 @@
 
 ## Index Governance
 
-* [Announcements](index-governance/announcements.md)
-* [Calculation Schedule](index-governance/calculation-schedule.md)
-* [Page 1](index-governance/page-1.md)
+* [Index Committee](index-governance/index-committee.md)
+* [表决事项类型](index-governance/biao-jue-shi-xiang-lei-xing.md)
+* [Proposals](index-governance/proposals.md)
+* [Voting Rules](index-governance/voting-rules.md)
+
+## Index Maintenance
+
+* [Announcements](index-maintenance/announcements.md)
+* [Calculation Schedule](index-maintenance/calculation-schedule.md)
+* [Recalculation Policy](index-maintenance/recalculation-policy.md)
+* [Index Rebalancing](index-maintenance/index-rebalancing.md)
+* [Additions](index-maintenance/additions.md)
+* [Deletions](index-maintenance/deletions.md)
+* [Change in Circumstances](index-maintenance/change-in-circumstances.md)
+* [Emergency Management](index-maintenance/emergency-management.md)
+* [Holidays](index-maintenance/holidays.md)
+
+## Index Dissemination
+
+* [Index Tickers](index-dissemination/index-tickers.md)
+* [Index Data](index-dissemination/index-data.md)
+
+## Reference
+
+* [Glossary](reference/glossary.md)
