@@ -35,3 +35,27 @@ Where _P_ is the price of the constituent _i_, _Q_ is the quantity of the circul
 {% hint style="info" %}
 The real-time data of the price and quantity for the constituents in CBI indices are provided by well-established data aggregators, including CoinGecko and CoinMarketCap.&#x20;
 {% endhint %}
+
+### An example
+
+Let's assume we are constructing a market capitalization weighted index named XYZ, which is composed of three constituents X, Y, and Z. The price and quantity of the circulating supply for each constituent are shown in the table:&#x20;
+
+| Constituent | Price (US Dollar) | Quantity  |
+| ----------- | ----------------- | --------- |
+| X           | 100               | 2,000,000 |
+| Y           | 200               | 5,000,000 |
+| Z           | 300               | 8,000,000 |
+
+假设设定指数除数为36,000,000美元，则指数水平计算如下：
+
+$$
+{XYZ}=\frac{(100*2000000)+(200*5000000)+(300*8000000)}{36000000} = 100
+$$
+
+t0时间点，该指数各成分权重如下所示：
+
+| 成分名称 | 成分权重    |
+| ---- | ------- |
+| X    | 5.555%  |
+| Y    | 27.778% |
+| Z    | 66.667% |
