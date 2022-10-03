@@ -6,4 +6,7 @@ CBI also provides capped versions of a market capitalization weighted index wher
 
 ## Market Capitalization Weighted Index
 
-Many of CBI’s indices are market capitalization weighted indices. Sometimes these are called value weighted, or market cap weighted, instead of market capitalization weighted. Examples include the CI 500, the S\&P Global 1200 and the S\&P BMI indices.
+Many of CBI’s indices are market capitalization weighted indices. Sometimes these are called value weighted or market cap weighted. A constituent's weight of a market capitalization weighted index is proportional to its market capitalization determined by its circulating supply.&#x20;
+
+
+
