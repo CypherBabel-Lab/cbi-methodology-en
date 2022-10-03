@@ -90,5 +90,21 @@ $$
 \text {CV}_{i}={P_{i} * Q_{i} * CMCAF_{i}}
 $$
 
-Where _CV_ is the market value of a constituent _i_, _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _CMCAF_ is the adjustment factor.
+Where _CV_ is the market value of the constituent _i_, _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _CMCAF_ is the adjustment factor of the constituent _i_.
+
+Therefore, the index level is calculated by:
+
+$$
+{Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
+$$
+
+And, the CMCAF is calculated by:
+
+$$
+{CMCAF}_{i,t}=\frac{{CW}_{i,t}}{{W}_{i,t}}
+$$
+
+其中，CW表示成分的具上限权重，该权重根据相关指数的上限规则确定；W表示根据成分流通市值计算的无上限权重，i代表某个成分。
+
+
 
