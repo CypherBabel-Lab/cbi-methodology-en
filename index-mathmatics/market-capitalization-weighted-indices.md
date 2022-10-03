@@ -22,9 +22,13 @@ $$
 {Index Value}={\sum_{i} P_{i} * Q_{i}}
 $$
 
-Where _P_ is the price of each constituent in the index; _Q_ is the quantity of each constituent's circulating supply; and _i_ denotes a constituent.
+Where _P_ is the price of each constituent in the index, _Q_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
+The weight of a constituent is calculated by:
 
+$$
+{W}_{i}=\frac{{P}_{i}*{Q}_{i}}{{Index Value }}
+$$
 
-以上计算公式中，Indexl Level（指数水平）为我们计算的目标结果，Index Value（指数值）代表该指数全部成分的市值总和。P表示指数成分价格（以美元计价），Q表示指数成分流通数量，i表示某个指数成分（即加密项目代币）。指数某个成分的P（价格）与Q（流通数量）相乘的结果代表该指数成分的流通市值。求和符号表示指数全部成分的流通市值的加总。Divisor为指数除数。
+Where _P_ is the price of constituent _i_, _Q_ is the quantity of circulating supply for constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
 
