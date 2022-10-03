@@ -59,3 +59,13 @@ And the weight of each constituent is:
 | X           | 5.555%  |
 | Y           | 27.778% |
 | Z           | 66.667% |
+
+## Capped Market Capitalization Weighted Index
+
+具上限市值加权指数（又称为具上限市值指数、具上限指数或具上限加权指数）是指对单一指数成分或指定的指数成分组别限定最大权重，超过的权重按比例在其余指数成分中分配的指数。随着成分价格的变动，其市值权重会改变，继而调整因子也会改变。因此具上限市值加权指数成分的权重需要不断进行重平衡，以确保满足上限规则。
+
+具上限市值加权指数的总体计算方法与流通市值加权指数相同，由Index Value（指数值）和Dividor（指数除数）共同决定。具上限市值加权指数的计算方法为：
+
+A capped market capitalization weighted index is one where single index constituents or defined groups of index constituents are confined to a maximum weight and the excess weight is distributed proportionately among the remaining index constituents. Sometimes, it is also called a capped market cap index, capped index or capped weighted index.&#x20;
+
+As constituent prices move the weights will shift and the modified weights will change. Therefore, a capped market cap weighted index must be rebalanced from time to time to re-establish the proper weighting. The methodology for capped indices follows an identical approach to market cap weighted indices except that the indices apply an additional weight factor, or “AWF”, to adjust the float-adjusted market capitalization to a value such that the index weight constraints are satisfied. For capped indices, no AWF change is made due to corporate actions between rebalancings except for daily capped indices where the corporate action may trigger a capping. Therefore, the weights of stocks in the index as well as the index divisor will change due to notional market capitalization changes resulting from corporate events. The overall approach to calculate capped market cap weighted indices is the same as in the pure marketcap weighted indices; however, the constituents’ market values are re-defined to be values that will meet the particular capping rules of the index in question.
