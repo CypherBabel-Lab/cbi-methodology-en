@@ -21,12 +21,12 @@
 * [Contract Security](eligibility-criteria/contract-security.md)
 * [Community](eligibility-criteria/community.md)
 
-## Index Mathmatics
+## Index Mathematics
 
-* [Basic Information](index-mathmatics/basic-information.md)
-* [Market Capitalization Weighted Indices](index-mathmatics/market-capitalization-weighted-indices.md)
-* [Non-Market Capitalization Weighted Indices](index-mathmatics/non-market-capitalization-weighted-indices.md)
-* [Index Divisor](index-mathmatics/index-divisor.md)
+* [Basic Information](index-mathematics/basic-information.md)
+* [Market Capitalization Weighted Indices](index-mathematics/market-capitalization-weighted-indices.md)
+* [Non-Market Capitalization Weighted Indices](index-mathematics/non-market-capitalization-weighted-indices.md)
+* [Index Divisor](index-mathematics/index-divisor.md)
 
 ## Index Construction
 
