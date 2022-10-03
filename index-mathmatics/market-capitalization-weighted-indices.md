@@ -30,5 +30,8 @@ $$
 {W}_{i}=\frac{{P}_{i}*{Q}_{i}}{{Index Value }}
 $$
 
-Where _P_ is the price of constituent _i_, _Q_ is the quantity of circulating supply for constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
+Where _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
 
+{% hint style="info" %}
+The real-time data of the price and quantity for the constituents in CBI indices are provided by well-established data aggregators, including CoinGecko and CoinMarketCap.&#x20;
+{% endhint %}
