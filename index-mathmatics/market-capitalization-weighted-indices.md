@@ -22,7 +22,7 @@ $$
 {Index Value}={\sum_{i} P_{i} * Q_{i}}
 $$
 
-Where _P_ is the price of each constituent in the index, _Q_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
+Where _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
 The weight of a constituent is calculated by:
 
@@ -30,7 +30,7 @@ $$
 {W}_{i}=\frac{{P}_{i}*{Q}_{i}}{{Index Value }}
 $$
 
-Where _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
+Where _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
 
 {% hint style="info" %}
 The real-time data of the price and quantity for the constituents in CBI indices are provided by well-established data aggregators, including CoinGecko and CoinMarketCap.&#x20;
@@ -80,7 +80,7 @@ $$
 {Index Value}={\sum_{i} P_{i} * Q_{i}}
 $$
 
-Where _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations.
+Where _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
 However, to calculate a capped index, the market capitalization for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Capped Market Capitalization Adjustment Factor (CMCAF).&#x20;
 
@@ -90,7 +90,7 @@ $$
 \text {CV}_{i}={P_{i} * Q_{i} * CMCAF_{i}}
 $$
 
-Where _CV_ is the market value of the constituent _i_, _P_ is the price of the constituent _i_, _Q_ is the quantity of the circulating supply of the constituent _i,_ and _CMCAF_ is the adjustment factor of the constituent _i_.
+Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and _CMCAFi_ is the adjustment factor of constituent _i_.
 
 Therefore, the index level is calculated by:
 
@@ -98,13 +98,15 @@ $$
 {Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
 $$
 
-And, the CMCAF is calculated by:
+And, the CMCAF for each index constituent, i, on rebalancing date, t, is calculated by:
 
 $$
 {CMCAF}_{i,t}=\frac{{CW}_{i,t}}{{W}_{i,t}}
 $$
 
-其中，CW表示成分的具上限权重，该权重根据相关指数的上限规则确定；W表示根据成分流通市值计算的无上限权重，i代表某个成分。
+where _CWi,t_ is the capped weight of constituent _i_ on rebalancing date _t_ as determined by the capping rule of the index in question, and _Wi,t_ is the uncapped weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization of all index constituents.
+
+
 
 
 
