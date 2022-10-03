@@ -46,16 +46,16 @@ Let's assume we are constructing a market capitalization weighted index named XY
 | Y           | 200               | 5,000,000 |
 | Z           | 300               | 8,000,000 |
 
-假设设定指数除数为36,000,000美元，则指数水平计算如下：
+We set the divisor as 36,000,000 USD, therefore the index level of XYZ is:
 
 $$
-{XYZ}=\frac{(100*2000000)+(200*5000000)+(300*8000000)}{36000000} = 100
+{XYZIndexLevel}=\frac{(100*2000000)+(200*5000000)+(300*8000000)}{36000000} = 100
 $$
 
-t0时间点，该指数各成分权重如下所示：
+And the weight of each constituent is:
 
-| 成分名称 | 成分权重    |
-| ---- | ------- |
-| X    | 5.555%  |
-| Y    | 27.778% |
-| Z    | 66.667% |
+| Constituent | Weight  |
+| ----------- | ------- |
+| X           | 5.555%  |
+| Y           | 27.778% |
+| Z           | 66.667% |
