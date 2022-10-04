@@ -38,7 +38,7 @@ The real-time data of the price and quantity for the constituents in CBI indices
 
 ### An example
 
-Let's assume we are constructing a market capitalization weighted index named XYZ, which is composed of three constituents X, Y, and Z. The price and quantity of the circulating supply for each constituent are shown in the table:&#x20;
+Let's assume we are constructing a market capitalization weighted index named XYZ, which is composed of three constituents X, Y, and Z. Price and quantity of circulating supply for each constituent are shown in table:&#x20;
 
 | Constituent | Price (US Dollar) | Quantity  |
 | ----------- | ----------------- | --------- |
@@ -120,5 +120,34 @@ $$
 {Index Value}_{after}={\sum_{i} P_{i} * Q_{i}} * {CMCAF}_{i}
 $$
 
+### An example
 
+Let's assume we are constructing a capped market capitalization weighted index named XYZ, which is composed of three constituents X, Y, and Z. The cap for index XYZ is set to 50%. Price and quantity of circulating supply for each constituent are shown in table:&#x20;
 
+| Constituent | Price (USD) | Quantity (USD) |
+| ----------- | ----------- | -------------- |
+| X           | 100         | 2,000,000      |
+| Y           | 200         | 5,000,000      |
+| Z           | 300         | 8,000,000      |
+
+The uncapped weight of each constituent before adjustment is shown below:
+
+| Constituent | Uncapped Weight |
+| ----------- | --------------- |
+| X           | 5.555%          |
+| Y           | 27.778%         |
+| Z           | 66.667%         |
+
+The uncapped weight of constituent Z does not satisfy the cap of the index. Hence, the weights of constituents are adjusted accordingly:
+
+| Constituent | Capped Weight | CMCAF |
+| ----------- | ------------- | ----- |
+| X           | 8.333%        | 1.50  |
+| Y           | 41.667%       | 1.50  |
+| Z           | 50.000%       | 0.75  |
+
+假设设定指数除数为36,000,000美元，则指数水平计算如下：
+
+$$
+{XYZ}=\frac{(100*2000000*1.50)+(200*5000000*1.50)+(300*8000000*0.75)}{36000000} = 100
+$$
