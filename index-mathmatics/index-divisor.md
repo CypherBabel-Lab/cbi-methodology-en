@@ -20,7 +20,7 @@ $$
 \frac{\left(\sum_{i} P_{i} * Q_{i}\right)+P_{r} Q_{r}}{{Divisor}_{t0}} = \frac{\left(\sum_{i} P_{i} * Q_{i}\right)+P_{s} Q_{s}}{{Divisor}_{t1}}
 $$
 
-Therefore, the new divisor after the maintenance is:
+Therefore, the new index divisor after the maintenance is:
 
 $$
 {Divisor}_{t1} = {Divisor}_{t0}*\frac{\left(\sum_{i} P_{i} * Q_{i}\right)+P_{s} Q_{s}}{\left(\sum_{i} P_{i} * Q_{i}\right)+P_{r} Q_{r}}
