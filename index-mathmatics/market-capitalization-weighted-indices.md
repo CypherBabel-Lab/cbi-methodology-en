@@ -46,7 +46,7 @@ Let's assume we are constructing a market capitalization weighted index named XY
 | Y           | 200               | 5,000,000 |
 | Z           | 300               | 8,000,000 |
 
-We set the divisor as 36,000,000 USD, therefore the index level of XYZ is:
+We set the divisor to 36,000,000 USD, therefore the index level of XYZ is:
 
 $$
 {XYZIndexLevel}=\frac{(100*2000000)+(200*5000000)+(300*8000000)}{36000000} = 100
@@ -146,7 +146,7 @@ The uncapped weight of constituent Z does not satisfy the cap of the index. Henc
 | Y           | 41.667%       | 1.50  |
 | Z           | 50.000%       | 0.75  |
 
-假设设定指数除数为36,000,000美元，则指数水平计算如下：
+We set the divisor to 36,000,000 USD, therefore the index level of XYZ is:
 
 $$
 {XYZ}=\frac{(100*2000000*1.50)+(200*5000000*1.50)+(300*8000000*0.75)}{36000000} = 100
