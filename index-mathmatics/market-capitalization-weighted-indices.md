@@ -98,7 +98,7 @@ $$
 {Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
 $$
 
-And, the CMCAF for each index constituent, i, on rebalancing date, t, is calculated by:
+And, the CMCAF for each index constituent _i_ on rebalancing date _t_ is calculated by:
 
 $$
 {CMCAF}_{i,t}=\frac{{CW}_{i,t}}{{W}_{i,t}}
@@ -106,7 +106,19 @@ $$
 
 where _CWi,t_ is the capped weight of constituent _i_ on rebalancing date _t_ as determined by the capping rule of the index in question, and _Wi,t_ is the uncapped weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization of all index constituents.
 
+The index divisor is defined based on the index level and market value. The index level stays unchanged at the rebalancing. But the divisor will change at the rebalancing since prices and circulating supplies will have changed since the last rebalancing.
 
+Therefore, the divisor is calculated by:
+
+$$
+{{Divisor}}_{after}=\frac{{Index Value}_{after}}{{Index Value}_{before}}
+$$
+
+Where:
+
+$$
+{Index Value}_{after}={\sum_{i} P_{i} * Q_{i}} * {CMCAF}_{i}
+$$
 
 
 
