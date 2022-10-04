@@ -1,5 +1,7 @@
 # Index Divisor
 
+The key to index maintenance is the adjustment of the index divisor. Index maintenance should not change the index level. This is achieved by adjusting the index divisor. Any change to the stocks in the index that alters the total market value of the index while holding stock prices constant will require a divisor adjustment. This section explains how the divisor adjustment is made given the change in total market value. The next section discusses what index changes and corporate actions lead to changes in total market value and the divisor. Equation (1) is expanded to show the stock being removed, stock r, separately from the stocks that will remain in the index:
+
 指数维护的主要手段是调整指数除数。指数维护（应对成分流动性变化、企业行动、成分增加或删减情况）不应改变指数水平。假设指数维护前，指数A的指数水平为1200。指数维护时，删除了指数A的成分X。指数维护后，指数A的指数水平应该依然是1200。
 
 在指数维护时，指数水平的连续性通过调整指数除数来实现。本节解释在指数成分总市值发生变化（比如剔除某成分）的情况下如何进行除数调整以保证指数水平连续性。
