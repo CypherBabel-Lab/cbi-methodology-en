@@ -2,7 +2,7 @@
 
 Crypto assets must have been listed on exchanges that CypherBabel recognizes and traded for at least 30 days.
 
-The recognized exchanges is as follows:&#x20;
+The recognized exchanges are as follows:&#x20;
 
 |      Exchange     |                          URL                          |
 | :---------------: | :---------------------------------------------------: |
