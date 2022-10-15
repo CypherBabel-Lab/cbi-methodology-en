@@ -7,7 +7,7 @@
 * [Index Categorization](introduction/index-categorization.md)
 * [Divisor](introduction/divisor.md)
 * [Base Date](introduction/base-date.md)
-* [Base Value](introduction/base-value.md)
+* [Base Level](introduction/base-level.md)
 * [Supporting Documents](introduction/supporting-documents.md)
 
 ## Eligibility Criteria
