@@ -1,2 +1,0 @@
-# Listed and Trading
-

@@ -1,2 +1,0 @@
-# Circulating Supply
-
