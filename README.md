@@ -4,4 +4,4 @@ CBI (CypherBabel Index) is a branch of CpherBabel that focuses index-related pro
 
 CBI adopts different index calculation methodologies. CBI indices are constructed with different constituents taken as individuals or groups based on CICS.&#x20;
 
-CBI indices are calculated mainly with **Market Capitalization Weighted** and **Non-Market Capitalization Weighted** methodologies.
+CBI indices are calculated mainly with **Market Capitalization Weighted** and **Capped Market Capitalization Weighted** methodologies.
