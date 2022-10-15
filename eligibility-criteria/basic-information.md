@@ -1,2 +1,7 @@
 # Basic Information
 
+Crypto assets that satisfy the eligibility criteria are considered the constituents for CBI indices.
+
+{% hint style="info" %}
+Being above the standards of the eligibility criteria indicates that the crypto assets are considered candidates for constituents of CBI indices. It does not mean that they all can be constituents.
+{% endhint %}
