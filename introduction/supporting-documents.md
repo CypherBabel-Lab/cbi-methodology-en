@@ -6,4 +6,3 @@ This methodology is meant to be read in conjunction with supporting documents pr
 | :--------------------------------------------: | :-: |
 | Crypto Industry Classification Standard (CICS) |     |
 |                                                |     |
-|                                                |     |
