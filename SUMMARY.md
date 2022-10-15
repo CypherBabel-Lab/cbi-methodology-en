@@ -14,9 +14,9 @@
 
 * [Basic Information](eligibility-criteria/basic-information.md)
 * [Crypto Characteristics](eligibility-criteria/crypto-characteristics.md)
-* [Supply Plan](eligibility-criteria/supply-plan.md)
 * [Listed and Trading](eligibility-criteria/listed-and-trading.md)
-* [Circulating Supply](eligibility-criteria/circulating-supply.md)
+* [Supply Plan](eligibility-criteria/supply-plan.md)
+* [Circulating Value](eligibility-criteria/circulating-value.md)
 * [Operation](eligibility-criteria/operation.md)
 * [Contract Security](eligibility-criteria/contract-security.md)
 * [Community](eligibility-criteria/community.md)
