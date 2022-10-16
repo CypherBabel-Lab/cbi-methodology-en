@@ -48,7 +48,7 @@ xx/xx/20xx..
 |  14 |     Compound    |     COMP    | [compound.finance](https://compound.finance/governance/comp) |
 |  15 |    FTX Token    |     FTT     |                  [ftx.com](https://ftx.com/)                 |
 |  16 |       XRP       |     XRP     |                 [xrpl.org](https://xrpl.org/)                |
-|  17 |                 |             |                                                              |
+|  17 |     Stellar     |     XLM     |            [stellar.org](https://www.stellar.org/)           |
 |  18 |                 |             |                                                              |
 |  19 |                 |             |                                                              |
 |  20 |                 |             |                                                              |
