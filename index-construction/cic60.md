@@ -6,6 +6,12 @@ The Crypto Industry Combination 55 (CIC55) index is a capped market capitalizati
 
 CBCIC55
 
-### Index Objective
+### Objective
 
-Representative of the all-around performance and overall trend for the crypto universe.
+Be a representative of the all-around performance and overall trend for the crypto universe.
+
+### Additional Criteria
+
+#### Market Capitalization
+
+Circulating market capitalization must be larger than xx million USD.

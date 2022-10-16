@@ -30,7 +30,7 @@
 
 ## Index Construction
 
-* [CIC55](index-construction/cic55.md)
+* [CIC55](index-construction/cic60.md)
 * [CI100](index-construction/ci100.md)
 * [DFI20](index-construction/dfi20.md)
 * [MVI10](index-construction/mvi10.md)
