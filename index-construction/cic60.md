@@ -39,10 +39,10 @@ xx/xx/20xx..
 |  5  |    Synthetix    |     SNX     |        [synthetix.io](https://synthetix.io/)        |
 |  6  |     Uniswap     |     UNI     |         [uniswap.org](https://uniswap.org/)         |
 |  7  |     Pancake     |     CAKE    | [pancakeswap.finance](https://pancakeswap.finance/) |
-|  8  |                 |             |                                                     |
-|  9  |                 |             |                                                     |
-|  10 |                 |             |                                                     |
-|  11 |                 |             |                                                     |
+|  8  |  1inch Network  |    1INCH    |            [1inch.io](https://1inch.io/)            |
+|  9  |      Gnosis     |     GNO     |           [gnosis.io](https://gnosis.io/)           |
+|  10 | Curve DAO Token |     CRV     |            [curve.fi](https://curve.fi/)            |
+|  11 |  Convex Finance |     CVX     | [convexfinance.com](https://www.convexfinance.com/) |
 |  12 |                 |             |                                                     |
 |  13 |                 |             |                                                     |
 |  14 |                 |             |                                                     |
