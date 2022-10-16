@@ -49,8 +49,8 @@ xx/xx/20xx..
 |  15 |    FTX Token    |     FTT     |                  [ftx.com](https://ftx.com/)                 |
 |  16 |       XRP       |     XRP     |                 [xrpl.org](https://xrpl.org/)                |
 |  17 |     Stellar     |     XLM     |            [stellar.org](https://www.stellar.org/)           |
-|  18 |                 |             |                                                              |
-|  19 |                 |             |                                                              |
+|  18 |      Cronos     |     CRO     |               [crypto.com](https://crypto.com/)              |
+|  19 |       OKB       |     OKB     |                [okx.com](https://www.okx.com/)               |
 |  20 |                 |             |                                                              |
 |  21 |                 |             |                                                              |
 |  22 |                 |             |                                                              |
