@@ -83,8 +83,8 @@ xx/xx/20xx..
 |  49 |      VeChain      |     VET     |            [vechain.org](https://www.vechain.org/)           |
 |  50 |       Hedera      |     HBAR    |               [hedera.com](https://hedera.com/)              |
 |  51 |       Tezos       |     XTZ     |                [tezos.com](https://tezos.com/)               |
-|  52 |                   |             |                                                              |
-|  53 |                   |             |                                                              |
-|  54 |                   |             |                                                              |
-|  55 |                   |             |                                                              |
+|  52 |       Elrond      |     EGLD    |               [elrond.com](https://elrond.com/)              |
+|  53 |      Arweave      |      AR     |            [arweave.org](https://www.arweave.org/)           |
+|  54 |      Optimism     |      OP     |            [optimism.io](https://www.optimism.io/)           |
+|  55 |       Galxe       |     GAL     |                [galxe.com](https://galxe.com/)               |
 
