@@ -66,10 +66,10 @@ xx/xx/20xx..
 |  32 |     Cult DAO    |     CULT    |               [cultdao.io](https://cultdao.io/)              |
 |  33 |     Ethereum    |     ETH     |           [ethereum.org](https://ethereum.org/en/)           |
 |  34 |    BNB Chain    |     BNB     |            [bnbchain.org](https://bnbchain.org/en)           |
-|  35 |                 |             |                                                              |
-|  36 |                 |             |                                                              |
-|  37 |                 |             |                                                              |
-|  38 |                 |             |                                                              |
+|  35 |      Solana     |     SOL     |              [solana.com](https://solana.com/zh)             |
+|  36 |      Cosmos     |     ATOM    |           [cosmos.network](https://cosmos.network/)          |
+|  37 |     Polkadot    |     DOT     |         [polkadot.network](https://polkadot.network/)        |
+|  38 |     Polygon     |    MATIC    |       [polygon.technology](https://polygon.technology/)      |
 |  39 |                 |             |                                                              |
 |  40 |                 |             |                                                              |
 |  41 |                 |             |                                                              |
