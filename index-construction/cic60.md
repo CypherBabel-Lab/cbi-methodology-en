@@ -62,10 +62,10 @@ xx/xx/20xx..
 |  28 |     ApeCoin     |     APE     |              [apecoin.com](https://apecoin.com/)             |
 |  29 |     Dogecoin    |     DOGE    |             [dogecoin.com](https://dogecoin.com/)            |
 |  30 |    Shiba Inu    |     SHIB    |           [shibatoken.com](https://shibatoken.com/)          |
-|  31 |                 |             |                                                              |
-|  32 |                 |             |                                                              |
-|  33 |                 |             |                                                              |
-|  34 |                 |             |                                                              |
+|  31 | ConstitutionDAO |    PEOPLE   |    [constitutiondao.com](https://www.constitutiondao.com/)   |
+|  32 |     Cult DAO    |     CULT    |               [cultdao.io](https://cultdao.io/)              |
+|  33 |     Ethereum    |     ETH     |           [ethereum.org](https://ethereum.org/en/)           |
+|  34 |    BNB Chain    |     BNB     |            [bnbchain.org](https://bnbchain.org/en)           |
 |  35 |                 |             |                                                              |
 |  36 |                 |             |                                                              |
 |  37 |                 |             |                                                              |
