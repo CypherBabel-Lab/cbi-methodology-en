@@ -52,12 +52,12 @@ xx/xx/20xx..
 |  18 |      Cronos     |     CRO     |               [crypto.com](https://crypto.com/)              |
 |  19 |       OKB       |     OKB     |                [okx.com](https://www.okx.com/)               |
 |  20 |   Huobi Token   |      HT     |              [huobi.com](https://www.huobi.com/)             |
-|  21 |                 |             |                                                              |
-|  22 |                 |             |                                                              |
-|  23 |                 |             |                                                              |
-|  24 |                 |             |                                                              |
-|  25 |                 |             |                                                              |
-|  26 |                 |             |                                                              |
+|  21 |      Zcash      |     ZEC     |                   [z.cash](https://z.cash/)                  |
+|  22 |   Decentraland  |     MANA    |         [decentraland.org](https://decentraland.org/)        |
+|  23 |       Gala      |     GALA    |           [app.gala.games](https://app.gala.games/)          |
+|  24 |    Enjin Coin   |     ENJ     |                 [enjin.io](https://enjin.io/)                |
+|  25 |  Theta Network  |    THETA    |         [thetatoken.org](https://www.thetatoken.org/)        |
+|  26 |   The Sandbox   |     SAND    |         [sandbox.game](https://www.sandbox.game/en/)         |
 |  27 |                 |             |                                                              |
 |  28 |                 |             |                                                              |
 |  29 |                 |             |                                                              |
