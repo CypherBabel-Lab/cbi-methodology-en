@@ -51,7 +51,7 @@ xx/xx/20xx..
 |  17 |     Stellar     |     XLM     |            [stellar.org](https://www.stellar.org/)           |
 |  18 |      Cronos     |     CRO     |               [crypto.com](https://crypto.com/)              |
 |  19 |       OKB       |     OKB     |                [okx.com](https://www.okx.com/)               |
-|  20 |                 |             |                                                              |
+|  20 |   Huobi Token   |      HT     |              [huobi.com](https://www.huobi.com/)             |
 |  21 |                 |             |                                                              |
 |  22 |                 |             |                                                              |
 |  23 |                 |             |                                                              |
