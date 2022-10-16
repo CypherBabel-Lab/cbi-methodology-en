@@ -31,9 +31,10 @@
 ## Index Construction
 
 * [CIC55](index-construction/cic60.md)
-* [CI100](index-construction/ci100.md)
 * [DFI20](index-construction/dfi20.md)
+* [DFI10](index-construction/dfi10.md)
 * [MVI10](index-construction/mvi10.md)
+* [MVI5](index-construction/mvi5.md)
 
 ## Index Governance
 
