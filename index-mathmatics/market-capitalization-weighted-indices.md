@@ -40,11 +40,11 @@ The real-time price and quantity data for the constituents in CBI indices are pr
 
 Let's assume we are constructing a market capitalization weighted index named XYZ, which is composed of three constituents X, Y, and Z. The price and quantity of circulating supply for each constituent are shown in the table:&#x20;
 
-| Constituent | Price (US Dollar) | Quantity  |
-| ----------- | ----------------- | --------- |
-| X           | 100               | 2,000,000 |
-| Y           | 200               | 5,000,000 |
-| Z           | 300               | 8,000,000 |
+| Constituent | Price (USD) | Quantity  |
+| ----------- | ----------- | --------- |
+| X           | 100         | 2,000,000 |
+| Y           | 200         | 5,000,000 |
+| Z           | 300         | 8,000,000 |
 
 We set the divisor to 36,000,000 USD. Therefore the index level of XYZ is:
 
