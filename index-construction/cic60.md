@@ -43,8 +43,8 @@ xx/xx/20xx..
 |  9  |      Gnosis     |     GNO     |           [gnosis.io](https://gnosis.io/)           |
 |  10 | Curve DAO Token |     CRV     |            [curve.fi](https://curve.fi/)            |
 |  11 |  Convex Finance |     CVX     | [convexfinance.com](https://www.convexfinance.com/) |
-|  12 |                 |             |                                                     |
-|  13 |                 |             |                                                     |
+|  12 |     Lido DAO    |     LDO     |             [lido.fi](https://lido.fi/)             |
+|  13 |       Aave      |     AAVE    |            [aave.com](https://aave.com/)            |
 |  14 |                 |             |                                                     |
 |  15 |                 |             |                                                     |
 |  16 |                 |             |                                                     |
