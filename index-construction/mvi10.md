@@ -1,6 +1,6 @@
 # MVI10
 
-The Metaverse Index 10 (DFI10) index is a capped market capitalization index with 10 constituents selected from the Metaverse Industry in CICS.
+The Metaverse Index 10 (MVI10) index is a capped market capitalization index with 10 constituents selected from the Metaverse Industry in CICS.
 
 ## Ticker
 
