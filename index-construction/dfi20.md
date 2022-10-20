@@ -8,7 +8,7 @@ CBIDFI20.
 
 ## Objective
 
-Represent the all-around performance and overall trend for the Decentralized Finance Industry Group in the crypto universe.
+Represent the all-around performance and overall trend of the Decentralized Finance Industry Group in the crypto universe.
 
 ## Calculation Methodology
 
@@ -23,8 +23,6 @@ Market Capitalization Weighted.
 100\.
 
 ## Constituents
-
-
 
 | No. |  Project/Company | Constituent |                              URL                             |
 | :-: | :--------------: | :---------: | :----------------------------------------------------------: |
