@@ -8,7 +8,7 @@ CBIMVI10.
 
 ## Calculation Methodology
 
-Capped Market Capitalization Weighted.
+Capped Market Capitalization Weighted with a maximum weight of 15%.
 
 ## Base Date
 
