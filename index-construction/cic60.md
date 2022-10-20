@@ -12,7 +12,7 @@ Represent the all-around performance and overall trend for the selected sectors 
 
 ## Calculation Methodology
 
-Capped Market Capitalization with a maximum weight of 40%.
+Capped Market Capitalization Weighted with a maximum weight of 40%.
 
 ## Base Date
 
