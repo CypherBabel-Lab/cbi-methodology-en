@@ -24,31 +24,21 @@ Market Capitalization Weighted.
 
 ## Constituents
 
-
-
 | No. |  Project/Company  | Constituent |                              URL                             |
 | :-: | :---------------: | :---------: | :----------------------------------------------------------: |
-|     |       Maker       |     MKR     |             [makerdao.com](https://makerdao.com/)            |
-|     |  Curve DAO Token  |     CRV     |                 [curve.fi](https://curve.fi/)                |
-|     |        Lido       |             |                                                              |
-|     |        Aave       |     AAVE    |                 [aave.com](https://aave.com/)                |
-|     |      Uniswap      |     UNI     |              [uniswap.org](https://uniswap.org/)             |
-|     |   Convex Finance  |     CVX     |      [convexfinance.com](https://www.convexfinance.com/)     |
-|     |      Pancake      |             |                                                              |
-|     |      Compound     |             |                                                              |
-|     |   1inch Network   |    1INCH    |                 [1inch.io](https://1inch.io/)                |
-|     |       Gnosis      |     GNO     |                [gnosis.io](https://gnosis.io/)               |
-|     |     Synthetix     |     SNX     |             [synthetix.io](https://synthetix.io/)            |
-|     |   Yearn.finance   |             |                                                              |
-|     |      Jostled      |             |                                                              |
-|     |      Balancer     |             |                                                              |
-|     |     InstaDapp     |             |                                                              |
-|     |       Venus       |             |                                                              |
-|     |     RocketPool    |             |                                                              |
-|     |        GMX        |             |                                                              |
-|     |        DYDX       |             |                                                              |
-|     |      Stargate     |             |                                                              |
+|  1  |      Bitcoin      |     BTC     |            [bitcoin.org](https://bitcoin.org/en/)            |
+|  2  |       Maker       |     MKR     |             [makerdao.com](https://makerdao.com/)            |
+|  3  |      Litecoin     |     LTC     |             [litecoin.org](https://litecoin.org/)            |
+|  4  |       Monero      |     XMR     |          [getmonero.org](https://www.getmonero.org/)         |
+|  5  |     Synthetix     |     SNX     |             [synthetix.io](https://synthetix.io/)            |
+|  6  |      Uniswap      |     UNI     |              [uniswap.org](https://uniswap.org/)             |
+|  7  |      Pancake      |     CAKE    |      [pancakeswap.finance](https://pancakeswap.finance/)     |
+|  8  |   1inch Network   |    1INCH    |                 [1inch.io](https://1inch.io/)                |
+|  9  |       Gnosis      |     GNO     |                [gnosis.io](https://gnosis.io/)               |
+|  10 |  Curve DAO Token  |     CRV     |                 [curve.fi](https://curve.fi/)                |
+|  11 |   Convex Finance  |     CVX     |      [convexfinance.com](https://www.convexfinance.com/)     |
 |  12 |      Lido DAO     |     LDO     |                  [lido.fi](https://lido.fi/)                 |
+|  13 |        Aave       |     AAVE    |                 [aave.com](https://aave.com/)                |
 |  14 |      Compound     |     COMP    | [compound.finance](https://compound.finance/governance/comp) |
 |  15 |     FTX Token     |     FTT     |                  [ftx.com](https://ftx.com/)                 |
 |  16 |        XRP        |     XRP     |                 [xrpl.org](https://xrpl.org/)                |
