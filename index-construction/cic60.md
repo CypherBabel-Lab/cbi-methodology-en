@@ -8,7 +8,7 @@ CBCIC55
 
 ## Objective
 
-Be a representative of the all-around performance and overall trend for the crypto universe.
+Represent the all-around performance and overall trend for the selected sectors in the crypto universe.
 
 ## Additional Criteria
 
@@ -22,7 +22,7 @@ Capped Market Capitalization with a maximum weight of 40%.
 
 ## Base Date
 
-xx/xx/20xx..
+2022-06-10.
 
 ## Base Level
 
