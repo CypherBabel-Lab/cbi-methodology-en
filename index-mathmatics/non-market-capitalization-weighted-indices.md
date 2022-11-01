@@ -20,15 +20,15 @@ $$
 
 Where the _IndexValue_ is the market value of an index with all constituents' circulating market capitalization; _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
-However, to calculate a non-market capitalization weighted index, the market value for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Weight Adjustment Factor (WAF).&#x20;
+However, to calculate a non-market capitalization weighted index, the market value for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Weight Adjustment Factor (_WAF_).&#x20;
 
 Therefore, the constituent market value is calculated by:
 
 $$
-\text {CV}_{i}={P_{i} * Q_{i} * WAF_{i}}
+{CV}_{i}={P_{i} * Q_{i} * WAF_{i}}
 $$
 
-Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and W_AFi_ is the adjustment factor of constituent _i_.
+Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and _WAFi_ is the adjustment factor of constituent _i_.
 
 Therefore, the index level is calculated by:
 
@@ -36,13 +36,13 @@ $$
 {Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
 $$
 
-And, the WAF for each index constituent _i_ on rebalancing date _t_ is calculated by:
+And, the _WAF_ for each index constituent _i_ on rebalancing date _t_ is calculated by:
 
 $$
 {WAF}_{i,t}=\frac{{AW}_{i,t}}{{W}_{i,t}}
 $$
 
-Where A_Wi,t_ is the assigned weight of constituent _i_ on rebalancing date _t_ as determined by the weighting rule of the index in question, and _Wi,t_ is the original weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization.
+Where _AWi,t_ is the assigned weight of constituent _i_ on rebalancing date _t_ as determined by the weighting rule of the index in question, and _Wi,t_ is the original weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization.
 
 The index divisor is defined based on the index level and market value. The index level stays unchanged at the rebalancing. But the divisor will change at the rebalancing, since prices and circulating supplies will have changed since the last rebalancing.
 
@@ -56,11 +56,11 @@ $$
 
 Let's assume we are constructing a non-market capitalization weighted index named XYZ, composed of three constituents X, Y, and Z with the user-assigned weights of 25%, 35% and 40% for X, Y, and Z, respectively. The price and quantity of circulating supply for each constituent are shown in the table:&#x20;
 
-| Constituent | Price (USD) | Quantity (USD) |
-| ----------- | ----------- | -------------- |
-| X           | 100         | 2,000,000      |
-| Y           | 200         | 5,000,000      |
-| Z           | 300         | 8,000,000      |
+| Constituent | Price (USD) | Quantity  |
+| ----------- | ----------- | --------- |
+| X           | 100         | 2,000,000 |
+| Y           | 200         | 5,000,000 |
+| Z           | 300         | 8,000,000 |
 
 The original weight of each constituent before adjustment is shown below:
 
@@ -104,7 +104,66 @@ $$
 
 Where the _IndexValue_ is the market value of an index with all constituents' circulating market capitalization; _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
-However, to calculate an equal weighted index, the market value for each constituent in the index is redefined so that it has the same weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Equal-Weighted Adjustment Factor (EWAF).&#x20;
+However, to calculate an equal weighted index, the market value for each constituent in the index is redefined so that it has the same weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Equal Weighted Adjustment Factor (_EWAF_).&#x20;
 
 Therefore, the constituent market value is calculated by:
 
+$$
+{CV}_{i}={P_{i} * Q_{i} * EWAF_{i}}
+$$
+
+Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and _EWAFi_ is the adjustment factor of constituent _i_.
+
+Therefore, the index level is calculated by:
+
+$$
+{Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
+$$
+
+And, the _EWAF_ for each index constituent _i_ on rebalancing date _t_ is calculated by:
+
+$$
+{EWAF}_{i,t}=\frac{{1}}{{N}*{W}_{i,t}}
+$$
+
+Where _N_ is the total amount of the constituents_,_ and _Wi,t_ is the original weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization.
+
+The index divisor is defined based on the index level and market value. The index level stays unchanged at the rebalancing. But the divisor will change at the rebalancing, since prices and circulating supplies will have changed since the last rebalancing.
+
+Therefore, the divisor is calculated by:
+
+$$
+{{Divisor}}_{after}=\frac{{Index Value}_{after}}{{Index Value}_{before}}
+$$
+
+### An example
+
+Let's assume we are constructing an equal weighted index named XYZ, composed of three constituents X, Y, and Z. The price and quantity of circulating supply for each constituent are shown in the table:&#x20;
+
+| Constituent | Price (USD) | Quantity  |
+| ----------- | ----------- | --------- |
+| X           | 100         | 2,000,000 |
+| Y           | 200         | 5,000,000 |
+| Z           | 300         | 8,000,000 |
+
+The original weight of each constituent before adjustment is shown below:
+
+| Constituent | Original Weight |
+| ----------- | --------------- |
+| X           | 5.555%          |
+| Y           | 27.778%         |
+| Z           | 66.667%         |
+
+The adjusted weights are:
+
+| Constituent | Adjusted Weight | EWAF |
+| ----------- | --------------- | ---- |
+| X           | 33.333%         | 6.00 |
+| Y           | 33.333%         | 1.20 |
+| Z           | 33.333%         | 0.50 |
+
+We set the divisor to 36,000,000 USD. Therefore, the index level of XYZ is:
+
+$$
+{XYZ}=\frac{(100*2000000*6.00)+(200*5000000*1.60)+(300*8000000*0.50)}{36000000} = 100
+$$

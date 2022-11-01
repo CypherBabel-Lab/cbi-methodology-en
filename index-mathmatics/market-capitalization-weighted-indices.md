@@ -82,7 +82,7 @@ $$
 
 Where _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
 
-However, to calculate a capped index, the market capitalization for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Capped Market Capitalization Adjustment Factor (CMCAF).&#x20;
+However, to calculate a capped index, the market capitalization for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Capped Market Capitalization Adjustment Factor (CMCAF).&#x20;
 
 Therefore, the constituent market value is calculated by:
 
@@ -124,11 +124,11 @@ $$
 
 Let's assume we are constructing a capped market capitalization weighted index named XYZ, composed of three constituents X, Y, and Z. The cap for index XYZ is set to 50%.  The price and quantity of circulating supply for each constituent are shown in the table:&#x20;
 
-| Constituent | Price (USD) | Quantity (USD) |
-| ----------- | ----------- | -------------- |
-| X           | 100         | 2,000,000      |
-| Y           | 200         | 5,000,000      |
-| Z           | 300         | 8,000,000      |
+| Constituent | Price (USD) | Quantity  |
+| ----------- | ----------- | --------- |
+| X           | 100         | 2,000,000 |
+| Y           | 200         | 5,000,000 |
+| Z           | 300         | 8,000,000 |
 
 The uncapped weight of each constituent before adjustment is shown below:
 
