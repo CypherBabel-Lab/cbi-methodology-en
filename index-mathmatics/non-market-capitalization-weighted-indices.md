@@ -42,5 +42,36 @@ $$
 
 where A_Wi,t_ is the assigned weight of constituent _i_ on rebalancing date _t_ as determined by the weighting rule of the index in question, and _Wi,t_ is the original weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization.
 
+The index divisor is defined based on the index level and market value. The index level stays unchanged at the rebalancing. But the divisor will change at the rebalancing since prices and circulating supplies will have changed since the last rebalancing.
 
+Therefore, the divisor is calculated by:
 
+$$
+{{Divisor}}_{after}=\frac{{Index Value}_{after}}{{Index Value}_{before}}
+$$
+
+### An example
+
+Let's assume we are constructing a non-market capitalization weighted index named XYZ, composed of three constituents X, Y, and Z with the user-assigned weights of 25%, 35% and 40% for X, Y, and Z, respectively. The price and quantity of circulating supply for each constituent are shown in the table:&#x20;
+
+| Constituent | Price (USD) | Quantity (USD) |
+| ----------- | ----------- | -------------- |
+| X           | 100         | 2,000,000      |
+| Y           | 200         | 5,000,000      |
+| Z           | 300         | 8,000,000      |
+
+The original weight of each constituent before adjustment is shown below:
+
+| Constituent | Original Weight |
+| ----------- | --------------- |
+| X           | 5.555%          |
+| Y           | 27.778%         |
+| Z           | 66.667%         |
+
+The weights after adjustments are:
+
+| Constituent | Adjusted Weight | CMCAF |
+| ----------- | --------------- | ----- |
+| X           | 25%             | 4.50  |
+| Y           | 35%             | 1.26  |
+| Z           | 40%             | 0.60  |
