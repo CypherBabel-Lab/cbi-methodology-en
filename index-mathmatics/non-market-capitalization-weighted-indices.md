@@ -98,3 +98,13 @@ $$
 
 The _IndexValue_ is calculated by:
 
+$$
+{Index Value}={\sum_{i} P_{i} * Q_{i}}
+$$
+
+Where the _IndexValue_ is the market value of an index with all constituents' circulating market capitalization; _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
+
+However, to calculate an equal weighted index, the market value for each constituent in the index is redefined so that it has the same weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Equal-Weighted Adjustment Factor (EWAF).&#x20;
+
+Therefore, the constituent market value is calculated by:
+
