@@ -70,8 +70,14 @@ The original weight of each constituent before adjustment is shown below:
 
 The weights after adjustments are:
 
-| Constituent | Adjusted Weight | CMCAF |
-| ----------- | --------------- | ----- |
-| X           | 25%             | 4.50  |
-| Y           | 35%             | 1.26  |
-| Z           | 40%             | 0.60  |
+| Constituent | Adjusted Weight | WAF  |
+| ----------- | --------------- | ---- |
+| X           | 25%             | 4.50 |
+| Y           | 35%             | 1.26 |
+| Z           | 40%             | 0.60 |
+
+We set the divisor to 36,000,000 USD. Therefore the index level of XYZ is:
+
+$$
+{XYZ}=\frac{(100*2000000*4.50)+(200*5000000*1.26)+(300*8000000*0.60)}{36000000} = 100
+$$
