@@ -17,3 +17,16 @@ $$
 $$
 
 Where the _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations; _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
+
+However, to calculate a non-market capitalization weighted index, the market value for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Weight Adjustment Factor (WAF).&#x20;
+
+Therefore, the constituent market value is calculated by:
+
+$$
+\text {CV}_{i}={P_{i} * Q_{i} * WAF_{i}}
+$$
+
+Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and W_AFi_ is the adjustment factor of constituent _i_.
+
+
+
