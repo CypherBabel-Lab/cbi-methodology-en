@@ -39,7 +39,6 @@
 ## Index Governance
 
 * [Index Committee](index-governance/index-committee.md)
-* [表决事项类型](index-governance/biao-jue-shi-xiang-lei-xing.md)
 * [Proposals](index-governance/proposals.md)
 * [Voting Rules](index-governance/voting-rules.md)
 
