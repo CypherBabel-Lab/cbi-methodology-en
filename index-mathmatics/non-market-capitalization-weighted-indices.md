@@ -9,3 +9,15 @@ The index level of a non-market capitalization weighted index is calculated by:
 $$
 {Index Level}=\frac{{Index Value}}{{Divisor}}
 $$
+
+The _IndexValue_ is calculated by:
+
+$$
+{Index Value}={\sum_{i} P_{i} * Q_{i}}
+$$
+
+Where the _IndexValue_ is the market value of an index with all constituents' circulating market capitalizations; _Pi_ is the price of each constituent in the index, _Qi_ is the quantity of each constituent's circulating supply, and _i_ denotes a constituent.
+
+However, to calculate a non-market capitalization weighted index, the market value for each constituent in the index is redefined so that it has the appropriate weight in the index at the initial calculation date and also at each rebalancing date. The new adjustment factor used to establish the appropriate weighting is called Capped Market Capitalization Adjustment Factor (CMCAF).&#x20;
+
+Therefore, the constituent market value is calculated by:
