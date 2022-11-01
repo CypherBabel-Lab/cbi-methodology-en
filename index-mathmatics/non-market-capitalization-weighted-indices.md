@@ -28,5 +28,19 @@ $$
 
 Where _CVi_ is the market value of constituent _i_, _Pi_ is the price of constituent _i_, _Qi_ is the quantity of the circulating supply of constituent _i,_ and W_AFi_ is the adjustment factor of constituent _i_.
 
+Therefore, the index level is calculated by:
+
+$$
+{Index Level}=\frac{\sum_{i} CV_{i}}{{Divisor}}
+$$
+
+And, the WAF for each index constituent _i_ on rebalancing date _t_ is calculated by:
+
+$$
+{WAF}_{i,t}=\frac{{AW}_{i,t}}{{W}_{i,t}}
+$$
+
+where A_Wi,t_ is the assigned weight of constituent _i_ on rebalancing date _t_ as determined by the weighting rule of the index in question, and _Wi,t_ is the original weight of constituent _i_ on rebalancing date _t_ based on the circulating-adjusted market capitalization.
+
 
 
