@@ -24,13 +24,13 @@
 
 > An index that each index constituent or defined group of index constituents is confined to maximum weight.
 
-#### 非市值加权指数
+#### Non-Market Capitalization Weighted Index
 
-> 指不使用成分市值作为权重的指数。
+> An index that the index constituents' weights are not determined by the market capitalization weighted methodology.
 
-#### 等权重指数
+#### Equal Weighted Index
 
-> 指数各成分权重相等的指数。
+> An index that all the constituents have the same weight.
 
 #### 指数除数
 
