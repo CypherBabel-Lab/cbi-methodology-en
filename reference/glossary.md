@@ -2,7 +2,7 @@
 
 **Constituent / Index Constituent**
 
-> Tradable token of the company, organization, or project that is included in an index.
+> Crypto asset (token) of the company, organization, or project that is included in an index.
 
 #### 成分市值
 
