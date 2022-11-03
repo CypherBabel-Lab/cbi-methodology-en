@@ -4,9 +4,9 @@
 
 > Crypto asset (token) of the company, organization, or project that is included in an index.
 
-#### 成分市值
+#### Constituent's Market Value
 
-> 成分价格与成分数量的乘积。
+> Multiplication of the constituent's price and its amount.
 
 #### 成分流通市值
 
