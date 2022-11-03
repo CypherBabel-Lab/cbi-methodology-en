@@ -14,15 +14,15 @@
 
 #### Market Capitalization Weighted Index
 
-> The index that each constituent's weight in the index is proportional to the total market value.
+> An index that each constituent's weight is proportional to its total market value.
 
-#### 流通市值加权指数
+#### Circulating Market Capitalization Weighted Index
 
-> 以每个成分的流通市值作为权重的指数。
+> An index that each constituent's weight is proportional to its circulating market value.
 
-#### 具上限市值加权指数
+#### Capped Market Capitalization Weighted Index
 
-> 以每个成分的流通市值作为权重，但对成分或所界定的成分组别（如行业、子行业）的市值限定最大权重的指数。
+> An index that each index constituent or defined group of index constituents is confined to maximum weight.
 
 #### 非市值加权指数
 

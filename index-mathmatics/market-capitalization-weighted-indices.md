@@ -62,7 +62,7 @@ And the weight of each constituent is:
 
 ## Capped Market Capitalization Weighted Index
 
-A capped market capitalization weighted index is one where single index constituents or defined groups of index constituents are confined to maximum weight. The excess weight is distributed proportionately among the remaining index constituents. Sometimes, it is also called a capped market cap index, capped index or capped weighted index. As constituent prices change the weights will shift, and the modified weights will change. Therefore, a capped market cap weighted index must be rebalanced from time to time to re-establish proper weighting.&#x20;
+A capped market capitalization weighted index is one where a single index constituent or defined group of index constituents is confined to maximum weight. The excess weight is distributed proportionately among the remaining index constituents. Sometimes, it is also called a capped market cap index, capped index or capped weighted index. As constituent prices change the weights will shift, and the modified weights will change. Therefore, a capped market cap weighted index must be rebalanced from time to time to re-establish proper weighting.&#x20;
 
 The calculation for capped indices is identical to market capitalization weighted indices, except that the indices use an additional weight factor to adjust the market capitalization to a value such that the index weight constraints are satisfied. For capped indices, no change is made on the additional weight factor due to project or corporate actions between rebalancing calculations. Therefore, the weights of constituents in the index will change due to market capitalization changes.&#x20;
 
