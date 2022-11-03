@@ -1,10 +1,8 @@
 # Glossary
 
+**Constituent / Index Constituent**
 
-
-#### 成分/指数成分
-
-> 被纳入指数的加密项目代币。
+> Tradable token of the company, organization, or project that is included in an index.
 
 #### 成分市值
 
