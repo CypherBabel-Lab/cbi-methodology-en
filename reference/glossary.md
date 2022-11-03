@@ -12,9 +12,9 @@
 
 > Multiplication of the constituent's price and its amount of circulating supply.
 
-#### 市值加权指数
+#### Market Capitalization Weighted Index
 
-> 以每个成分的市值作为权重的指数。
+> The index that each constituent's weight in the index is proportional to the total market value.
 
 #### 流通市值加权指数
 
