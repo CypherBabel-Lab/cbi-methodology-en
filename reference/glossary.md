@@ -6,11 +6,11 @@
 
 #### Constituent's Market Value
 
-> Multiplication of the constituent's price and its amount.
+> Multiplication of the constituent's price and its amount of total supply.
 
-#### 成分流通市值
+#### Constituent's Circulating Market Value
 
-> 成分价格与成分流通数量的乘积。
+> Multiplication of the constituent's price and its amount of circulating supply.
 
 #### 市值加权指数
 
