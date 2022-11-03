@@ -36,17 +36,17 @@
 
 > The index divisor is a component in index calculation methodologies that maintains the continuity of an index level following the implementation of corporate actions, index rebalancing events, or other non-market-driven actions.
 
-#### 指数水平
+#### Index Level
 
-> 由指数市值和指数除数相除得出的数值，即指数计算的结果。
+> The result of the index calculation.
 
-#### 基准日
+#### Base Date
 
-> 指数成分数据可追溯到的最早日期。
+> The earliest date the constituents' trading record can be traced.
 
-#### 基准点
+#### Base Level
 
-> 指数在其基准日的指数水平。
+> The index level at the base date.
 
 #### CICS
 
