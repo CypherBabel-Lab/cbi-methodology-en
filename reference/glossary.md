@@ -32,9 +32,9 @@
 
 > An index that all the constituents have the same weight.
 
-#### 指数除数
+#### Index Divisor
 
-> 在指数调整时保证指数连续性的可变数值，在指数计算时作为等式的分母。
+> The index divisor is a component in index calculation methodologies that maintains the continuity of an index level following the implementation of corporate actions, index rebalancing events, or other non-market-driven actions.
 
 #### 指数水平
 
