@@ -34,7 +34,7 @@
 
 #### Index Divisor
 
-> The index divisor is a component in index calculation methodologies that maintains the continuity of an index level following the implementation of corporate actions, index rebalancing events, or other non-market-driven actions.
+> The index divisor is a component in index calculation methodologies that maintains the continuity of an index level after implementing corporate actions, index rebalancing events, or other non-market-driven actions.
 
 #### Index Level
 
@@ -50,16 +50,4 @@
 
 #### CICS
 
-> The Crypto Industry Classification Standard (CICS) is developed by CypherBabel to provide a thorough, clear, flexible, evolving, and reliable classification of the industries in the crypto world. It is designed with four levels of classifications that include Sectors, Industry Groups, Industries, and Sub-Industries.
-
-#### CIC60
-
-> 全称CyherBabel Crypto Industry Combination Top 60 Capped Market Capitalization Index，是CBI旗下的具上限加权指数。
-
-#### 定量指数
-
-> 指数成分的数量为定值的指数。
-
-#### 不定量指数
-
-> 指数成分的数量为非定值的指数。
+> The Crypto Industry Classification Standard (CICS) is developed by CypherBabel to provide a complete, transparent, flexible, evolving, and reliable classification of the industries in the crypto world. It is designed with four classification levels: Sectors, Industry Groups, Industries, and Sub-Industries.
