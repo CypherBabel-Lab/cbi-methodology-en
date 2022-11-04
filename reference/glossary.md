@@ -50,7 +50,7 @@
 
 #### CICS
 
-> 全称Crypto Industry Classification Standard，即加密行业分类标准。是由CB DAO开发的面向加密世界的行业划分标准。该标准为加密相关领域定义了行业和子行业，并对大量加密项目进行了归类。
+> The Crypto Industry Classification Standard (CICS) is developed by CypherBabel to provide a thorough, clear, flexible, evolving, and reliable classification of the industries in the crypto world. It is designed with four levels of classifications that include Sectors, Industry Groups, Industries, and Sub-Industries.
 
 #### CIC60
 
