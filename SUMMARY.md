@@ -39,6 +39,7 @@
 ## Index Governance
 
 * [Index Committee](index-governance/index-committee.md)
+* [Voting Events](index-governance/voting-events.md)
 * [Proposals](index-governance/proposals.md)
 * [Voting Rules](index-governance/voting-rules.md)
 
