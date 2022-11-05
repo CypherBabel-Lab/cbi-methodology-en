@@ -2,20 +2,24 @@
 
 ## CypherBabel&#x20;
 
-##
+{% embed url="https://www.cypherbabel.com" %}
 
 ### CBICIC55
 
-{% embed url="http://www.cypherbabel.com/CBCI100" %}
+{% embed url="https://www.cypherbabel.com/cic55" %}
 
-### CBCIC60
+### CBIDFI20
 
-{% embed url="http://www.cypherbabel.com/CBCIC60" %}
+{% embed url="https://www.cypherbabel.com/dfi20" %}
 
-### CBDFI20
+### CBIDFI10
 
-{% embed url="http://www.cypherbabel.com/CBDFI20" %}
+{% embed url="https://www.cypherbabel.com/dfi10" %}
 
 ### CBMVI10
 
-{% embed url="http://www.cypherbabel.com/cbmvi10" %}
+{% embed url="https://www.cypherbabel.com/mvi10" %}
+
+## CBIMVI5
+
+{% embed url="https://www.cypherbabel.com/mvi5" %}
