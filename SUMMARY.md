@@ -63,3 +63,7 @@
 ## Reference
 
 * [Glossary](reference/glossary.md)
+
+***
+
+* [Disclaimer](disclaimer.md)
