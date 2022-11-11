@@ -2,7 +2,9 @@
 
 ## Regular Proposal
 
-All the members of the Index Committee can submit pre-proposals with 3 days of validity.&#x20;
+All the members of the Index Committee can submit pre-proposals.
+
+The period of validity for a pre-proposal is 3 days.&#x20;
 
 A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity.&#x20;
 

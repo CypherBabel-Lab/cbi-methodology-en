@@ -1,12 +1,14 @@
-# Voting Issues
+# Voting Events
 
-## Regular Issues
+## Regular Issue
 
-* Index maintenance: additions and deletions of index constituents, protective adjustment of index, and index constituents appeals.
+## 一般事项
 
-## Significant Issues
+指数维护：新增及剔除成分、指数的保护性调整、成分项目申诉决议
 
-* Modification of index construction.
-* Addition and deletion of index types and calculation methodologies.
-* Addition and deletion of indices.
-* Modification of the eligibility of the Index Committee members.
+## 重大事项
+
+* 修订指数方法：包含修改指数入选规则、权重及增加新的入选规则；
+* 增加指数类型及其方法；
+* 增加指数产品；
+* 修订指数委员会入选规则及表决；
