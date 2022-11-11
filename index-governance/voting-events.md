@@ -6,7 +6,7 @@ Index maintenance: additions and deletions of index constituents, protective adj
 
 ## Significant Issues
 
-* 修订指数方法：包含修改指数入选规则、权重及增加新的入选规则；
-* 增加指数类型及其方法；
-* 增加指数产品；
-* 修订指数委员会入选规则及表决；
+* Modification of index construction:&#x20;
+* Addition and deletion of index types and calculation methodologies.
+* Addition and deletion of indices.
+* Modification of the eligibility of the Index Committee members.
