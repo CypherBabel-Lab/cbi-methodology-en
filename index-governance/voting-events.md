@@ -1,6 +1,8 @@
 # Voting Events
 
-## Regular Issue
+## Regular Issues
+
+Index maintenance: addtions and deletions of index constituents,&#x20;
 
 ## 一般事项
 
