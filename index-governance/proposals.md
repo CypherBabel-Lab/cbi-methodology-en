@@ -1,8 +1,14 @@
 # Proposals
 
-## 一般事项提案
+## Regular Proposal
 
-委员会成员均可发起预提案，预提案有效期为3天；在预提案有效期内，支持提案得票率超过50%，即进入正式提案，正式提案投票期7天，由指数委员会成员进行投票；
+All the members of the Index Committee can submit pre-proposals with 3 days of validity.&#x20;
+
+A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity.&#x20;
+
+The voting period for an official proposal is 7 days.
+
+&#x20;All the members of the Index Committee have the right to vote for an official proposal.
 
 ## 重大事项提案
 

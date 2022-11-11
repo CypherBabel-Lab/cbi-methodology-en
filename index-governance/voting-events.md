@@ -1,4 +1,4 @@
-# Voting Events
+# Voting Issues
 
 ## Regular Issues
 
