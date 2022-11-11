@@ -8,7 +8,6 @@ The recognized exchanges are as follows:&#x20;
 | :---------------: | :---------------------------------------------------: |
 |      Binance      | [https://www.binance.com](https://www.binance.com/en) |
 | Coinbase Exchange | [https://pro.coinbase.com](https://pro.coinbase.com/) |
-|        FTX        |          [https://ftx.com](https://ftx.com/)          |
 |       Kraken      |   [https://www.kraken.com](https://www.kraken.com/)   |
 |      Gate.io      |      [https://www.gate.io](https://www.gate.io/)      |
 |     Binance.US    |  [https://www.binance.us](https://www.binance.us/en)  |
