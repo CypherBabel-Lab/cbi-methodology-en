@@ -2,16 +2,16 @@
 
 ## Regular Proposal
 
-All the members of the Index Committee can submit pre-proposals. The period of validity for a pre-proposal is 3 days. A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity. The voting period for an official proposal is 7 days. All the members of the Index Committee have the right to vote for an official proposal.
+All the members of the Index Committee can submit pre-proposals. The period of validity for a pre-proposal is 3 days. A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity. The voting period for an official proposal is 7 days. All the members of the Index Committee have the right to vote.
 
-## 重大事项提案
+## Significant Proposal
 
-委员会成员均可发起预提案，预提案有效期为3天；在提案有效期内，支持提案得票率超过50%，即进入正式提案，正式提案投票期15天，由指数委员会成员进行投票；
+All the members of the Index Committee can submit pre-proposals. The period of validity for a pre-proposal is 3 days. A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity. The voting period for an official proposal is 15 days. All the members of the Index Committee have the right to vote.
 
-## 临时决议提案
+## Urgent Proposal
 
-在需要临时决议的情形下，委员会可发起临时决议提案，该提案无需预提，直接进入正式提案，投票期为24小时，按需表决的事项类型进行投票；
+All the members of the Index Committee can submit urgent proposals when needed. An urgent proposal becomes an official proposal instantly after submission. The voting period for an official proposal is 24 hours. All the members of the Index Committee have the right to vote.
 
-## 提案限制
+## Proposal Requirement
 
-在一个月内不得重复提交同一提案，临时决议提案除外。
+The same proposal cannot be submitted repeatedly within a month. This requirement does not apply to the urgent proposal.
