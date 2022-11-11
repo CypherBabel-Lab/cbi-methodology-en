@@ -1,10 +1,8 @@
 # Voting Events
 
-## Regular Issue
+## Regular Issues
 
-## 一般事项
-
-指数维护：新增及剔除成分、指数的保护性调整、成分项目申诉决议
+Index maintenance: additions and deletions of index constituents, protective adjustment of index, and index constituents appeals.
 
 ## 重大事项
 
