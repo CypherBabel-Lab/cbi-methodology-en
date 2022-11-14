@@ -14,13 +14,6 @@ When a constituent is removed from the top exchanges, it will be deleted from al
 * When the price of the constituent drops significantly, the circulating market capitalization of the constituent is lower than the requirement of the circulating market capitalization for the eligibility criteria, causing the constituent to go into the buffering stage that lasts for 96 hours. If the price of the constituent further drops to a level that is lower than 50% of the requirement of the circulating market capitalization for the eligibility criteria, it is deleted from the index immediately.
 * When a significant situation or an emergency happens, the proposal for deletion can be made by the Index Committee. The deletion must be completed within 24 hours.
 
-## 其它情况
-
-除一般原则外，在下列情况发生时会剔除成分：
-
-* 成分价格出现大幅下跌，导致成分市值低于入选资格标准要求市值的80%，且经过宽限期后仍无法回到入选资格标准要求的市值水平。宽限期为96小时，如在宽限期内，成分市值进一步下跌至入选资格标准要求市值的50%以下，则立刻进行剔除；
-* 重大情势变更中，指数委员会作出剔除决议（剔除决议作出后，24小时内完成剔除）。
-
 ## 剔除冷却期
 
 指数成分被剔除后7日内，成分项目可向指数委员会提出申诉，由指数委员会作出是否同意接受该申诉的决议。如同意申诉，交由CypherBabel通过一般性表决进行最终决议。
