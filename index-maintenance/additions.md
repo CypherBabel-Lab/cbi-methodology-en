@@ -2,10 +2,8 @@
 
 The additions of index constituents are categorized into two types: the **index with a constant number of constituents** and the **index with a non-constant number of constituents**.
 
-* Index with a constant number of constituents:
+* Index with a constant number of constituents: an addition correlates to a deletion. A constituent must be deleted when another constituent is added to keep the number of constituents constant.
 * Index with a non-constant number of constituents: an addition does not correlate to a deletion.
-* 定量指数的成分新增：成分新增与剔除相关联。当定量指数中有成分被剔除时，指数委员会应于24小时内产生新入选指数成分的临时决议，如超过24小时未产生有效决议，将从CICS相应的分类中随机选择符合指数如选择资格标准的成分，作为新增成分；
-* 不定量指数的成分新增：成分新增与剔除无关联。
 
 ## 一般原则
 
