@@ -26,12 +26,6 @@ If the appeal is rejected, the deletion and corresponding constraints are execut
 
 If the appeal is agreed upon, the constituent will be re-evaluated as a regular constituent.
 
-## 剔除申诉
+## Constraint
 
-剔除申诉不成功，则剔除及剔除限制即时生效。
-
-剔除申诉成功，项目将重新被视作正常状态进行评估。
-
-## 剔除后准入限制
-
-成分被剔除且申诉不成功情况下，自剔除生效之日起6个月内不纳入任何指数。
+The deleted constituent with or without a rejected appeal can not be included in any CBI indices within 6 months of the deletion.
