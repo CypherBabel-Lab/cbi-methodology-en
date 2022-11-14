@@ -1,4 +1,4 @@
-# Deletions
+# Deletion
 
 The deletions of index constituents are categorized into two types: the **index with a constant number of constituents** and the **index with a non-constant number of constituents**.
 
@@ -12,7 +12,7 @@ When a constituent is removed from the top exchanges, it will be deleted from al
 ## Other Rules
 
 * When the price of the constituent drops significantly, the circulating market capitalization of the constituent is lower than the requirement of the circulating market capitalization for the eligibility criteria, causing the constituent to go into the buffering stage that lasts for 96 hours. If the price of the constituent further drops to a level that is lower than 50% of the requirement of the circulating market capitalization for the eligibility criteria, it is deleted from the index immediately.
-* When a significant situation or an emergency happens, the proposal for deletion can be made by the Index Committee. The deletion must be completed within 24 hours.
+* When a significant change in circumstance or an emergency happens, the proposal for deletion can be made by the Index Committee. The deletion must be completed within 24 hours.
 
 ## Freezing Stage
 

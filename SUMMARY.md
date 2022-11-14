@@ -39,21 +39,21 @@
 ## Index Governance
 
 * [Index Committee](index-governance/index-committee.md)
-* [Voting Issues](index-governance/voting-events.md)
-* [Proposals](index-governance/proposals.md)
-* [Voting Rules](index-governance/voting-rules.md)
+* [Voting Issue](index-governance/voting-issue.md)
+* [Proposal](index-governance/proposal.md)
+* [Voting Rule](index-governance/voting-rule.md)
 
 ## Index Maintenance
 
-* [Announcements](index-maintenance/announcements.md)
+* [Announcement](index-maintenance/announcement.md)
 * [Calculation Schedule](index-maintenance/calculation-schedule.md)
 * [Recalculation Policy](index-maintenance/recalculation-policy.md)
 * [Index Rebalancing](index-maintenance/index-rebalancing.md)
-* [Additions](index-maintenance/additions.md)
-* [Deletions](index-maintenance/deletions.md)
-* [Change in Circumstances](index-maintenance/change-in-circumstances.md)
+* [Addition](index-maintenance/addition.md)
+* [Deletion](index-maintenance/deletion.md)
+* [Change in Circumstance](index-maintenance/change-in-circumstance.md)
 * [Emergency Management](index-maintenance/emergency-management.md)
-* [Holidays](index-maintenance/holidays.md)
+* [Holiday](index-maintenance/holiday.md)
 
 ## Index Dissemination
 
