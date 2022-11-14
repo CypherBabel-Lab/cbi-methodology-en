@@ -2,12 +2,12 @@
 
 The deletions of index constituents are categorized into two types: the **index with a constant number of constituents** and the **index with a non-constant number of constituents**.
 
-* Index with a constant number of constituents: a deletion correlates to an addition. A constituent must be added when a constituent is deleted to keep the number of constituents constant. The added constituent must be decided within 24 hours after the proposal. If it fails t o make the decision within 24 hours, a constituent that satisfies the index criteria is automatically selected according to the CICS classification, if applicable.
+* Index with a constant number of constituents: a deletion correlates to an addition. A constituent must be added when a constituent is deleted to keep the number of constituents constant. The added constituent must be decided within 24 hours after the proposal. If it fails to make the decision within 24 hours, a constituent that satisfies the index criteria is automatically selected according to the CICS classification, if applicable.
 * Index with a non-constant number of constituents: a deletion does not correlate to an addition.
 
-## 一般原则
+## Regular Rule
 
-在其上市的主要交易所下市，所有纳入该成分的指数均会剔除该成分。剔除会在成分下市后24小时内发生。剔除成分后，对指数进行指数调整，以保持指数水平的连续性。
+When a constituent is removed from the top exchanges, it will be deleted from all the indices containing it. The deletion must be executed within 24 hours after it is removed from the exchanges. After the deletion, a rebalancing must be conducted to keep the index level constant.
 
 ## 其它情况
 
