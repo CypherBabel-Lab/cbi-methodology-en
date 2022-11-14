@@ -20,6 +20,12 @@ The company, project, or organization of the constituent can submit an appeal wi
 
 If no appeal is submitted in the freezing stage, or the appeal is rejected, the deletion is executed immediately.
 
+## Appeal
+
+If the appeal is rejected, the deletion and corresponding constraints are executed immediately.
+
+If the appeal is agreed upon, the constituent will be re-evaluated as a regular constituent.
+
 ## 剔除申诉
 
 剔除申诉不成功，则剔除及剔除限制即时生效。
