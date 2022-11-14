@@ -5,7 +5,7 @@ The deletions of index constituents are categorized into two types: the **index 
 * Index with a constant number of constituents: a deletion correlates to an addition. A constituent must be added when a constituent is deleted to keep the number of constituents constant. The added constituent must be decided within 24 hours of the proposal. If it fails to make the decision within 24 hours, a constituent that satisfies the index criteria is automatically selected according to the CICS classification, if applicable.
 * Index with a non-constant number of constituents: a deletion does not correlate to an addition.
 
-## Regular Rules
+## General Rules
 
 When a constituent is removed from the top exchanges, it will be deleted from all the indices containing it. The deletion must be executed within 24 hours after it is removed from the exchanges. After the deletion, a rebalancing must be conducted to keep the index level constant.
 

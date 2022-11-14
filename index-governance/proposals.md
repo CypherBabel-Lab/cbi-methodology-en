@@ -1,6 +1,6 @@
 # Proposal
 
-## Regular Proposal
+## General Proposal
 
 All the members of the Index Committee can submit pre-proposals. The period of validity for a pre-proposal is 3 days. A pre-proposal becomes an official proposal once over half of the supporting votes are achieved within its period of validity. The voting period for an official proposal is 7 days. All the members of the Index Committee have the right to vote.
 
