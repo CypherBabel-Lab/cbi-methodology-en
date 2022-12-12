@@ -1,6 +1,6 @@
 # MVI5
 
-The Metaverse Index 5 (MVI5) index is an equal-weighted index with 10 constituents selected from the Metaverse Industry in CICS.
+The Metaverse Index 5 (MVI5) index is an equal-weighted index with 5 constituents selected from the Metaverse Industry in CICS.
 
 ## Ticker
 
