@@ -7,30 +7,30 @@
 * [Index Categorization](introduction/index-categorization.md)
 * [Divisor](introduction/divisor.md)
 * [Base Date](introduction/base-date.md)
-* [Base Level](introduction/base-value.md)
+* [Base Level](introduction/base-level.md)
 * [Supporting Documents](introduction/supporting-documents.md)
 
 ## Eligibility Criteria
 
 * [Basic Information](eligibility-criteria/basic-information.md)
 * [Crypto Characteristics](eligibility-criteria/crypto-characteristics.md)
-* [Exchange Listing](eligibility-criteria/listed-and-trading.md)
+* [Exchange Listing](eligibility-criteria/exchange-listing.md)
 * [Supply Plan](eligibility-criteria/supply-plan.md)
-* [Circulating Value](eligibility-criteria/circulating-supply.md)
+* [Circulating Value](eligibility-criteria/circulating-value.md)
 * [Operation](eligibility-criteria/operation.md)
 * [Contract Security](eligibility-criteria/contract-security.md)
 * [Community](eligibility-criteria/community.md)
 
 ## Index Mathematics
 
-* [Basic Information](index-mathmatics/basic-information.md)
-* [Market Capitalization Weighted Indices](index-mathmatics/market-capitalization-weighted-indices.md)
-* [Non-Market Capitalization Weighted Indices](index-mathmatics/non-market-capitalization-weighted-indices.md)
-* [Index Divisor](index-mathmatics/index-divisor.md)
+* [Basic Information](index-mathematics/basic-information.md)
+* [Market Capitalization Weighted Indices](index-mathematics/market-capitalization-weighted-indices.md)
+* [Non-Market Capitalization Weighted Indices](index-mathematics/non-market-capitalization-weighted-indices.md)
+* [Index Divisor](index-mathematics/index-divisor.md)
 
 ## Index Construction
 
-* [CIC55](index-construction/cic60.md)
+* [CIC55](index-construction/cic55.md)
 * [DFI20](index-construction/dfi20.md)
 * [DFI10](index-construction/dfi10.md)
 * [MVI10](index-construction/mvi10.md)
@@ -39,21 +39,21 @@
 ## Index Governance
 
 * [Index Committee](index-governance/index-committee.md)
-* [Voting Issue](index-governance/voting-events.md)
-* [Proposal](index-governance/proposals.md)
-* [Voting Rule](index-governance/voting-rules.md)
+* [Voting Issue](index-governance/voting-issue.md)
+* [Proposal](index-governance/proposal.md)
+* [Voting Rule](index-governance/voting-rule.md)
 
 ## Index Maintenance
 
-* [Announcement](index-maintenance/announcements.md)
+* [Announcement](index-maintenance/announcement.md)
 * [Calculation Schedule](index-maintenance/calculation-schedule.md)
 * [Recalculation Policy](index-maintenance/recalculation-policy.md)
 * [Index Rebalancing](index-maintenance/index-rebalancing.md)
-* [Addition](index-maintenance/additions.md)
-* [Deletion](index-maintenance/deletions.md)
-* [Change in Circumstance](index-maintenance/change-in-circumstances.md)
+* [Addition](index-maintenance/addition.md)
+* [Deletion](index-maintenance/deletion.md)
+* [Change in Circumstance](index-maintenance/change-in-circumstance.md)
 * [Emergency Management](index-maintenance/emergency-management.md)
-* [Holiday](index-maintenance/holidays.md)
+* [Holiday](index-maintenance/holiday.md)
 
 ## Index Dissemination
 
